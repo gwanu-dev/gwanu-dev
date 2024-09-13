@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gwanu%20Github&fontSize=90" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&customColorList=14&fontColor=FFFFFF&height=250&section=header&text=Gwanu-dev%20&desc=devkwanwoo@gmail.com&fontSize=80&animation=fadeIn&fontAlign=80&fontAlignY=38&descAlign=80&descAlignY=52" />
 </div>
 </br>
 
